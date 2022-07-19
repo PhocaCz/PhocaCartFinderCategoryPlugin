@@ -1,0 +1,19 @@
+{
+	"author": "Jan Pavelka (www.phoca.cz)",
+	"authorUrl": "https://www.phoca.cz",
+	"copyright": "Jan Pavelka",
+	"license": "GNU/GPL",
+	"projectName": "PhocaCartFinderCategoryPlugin",
+	"extensionName": "Phoca Cart Finder Category Plugin",
+	"projectInitials" : "PC",
+	"description": "Phoca Cart Finder Category plugin is a Joomla! plugin which allows you to search for categories of Phoca Cart powered by Joomla! Smart Search (Finder) feature.",
+	"projectUrl": "https://www.phoca.cz/phocacart-extensions/2-plugins/71-phoca-cart-finder-category-plugin",
+	"projectMainComponent": "Phoca Cart",
+	"projectMainComponentInfoUrl": "https://www.phoca.cz/project/phocacart-joomla-ecommerce",
+	"projectDocumentationUrl": "https://www.phoca.cz/documentation/category/115-phoca-cart",
+	"projectDemo" : {
+		"Phoca Cart 4 Demo": "https://www.phoca.cz/phocacart4demo/"
+	},
+	"projectColor": "#129ed9",
+	"projectBranch": "main"
+}
