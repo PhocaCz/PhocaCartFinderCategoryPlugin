@@ -1,19 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<extension type="plugin" group="finder" method="upgrade" version="5.0">
+<extension type="plugin" group="finder" method="upgrade" version="6.0">
 	<name>plg_finder_phocacartcategory</name>
 	<author>Jan Pavelka (www.phoca.cz)</author>
-	<creationDate>24/09/2024</creationDate>
+	<creationDate>23/10/2025</creationDate>
 	<authorEmail></authorEmail>
 	<authorUrl>https://www.phoca.cz</authorUrl>
 	<copyright>Jan Pavelka</copyright>
 	<license>GNU/GPL</license>
-	<version>5.0.1</version>
+	<version>6.0.0</version>
 	<description>PLG_FINDER_PHOCACARTCATEGORY_DESCRIPTION</description>
 	<projectName>PhocaCartFinderCategoryPlugin</projectName>
 
 	<files>
 		<filename plugin="phocacartcategory">index.html</filename>
 		<filename plugin="phocacartcategory">phocacartcategory.php</filename>
+		<filename plugin="phocacartcategory">manifest.xml</filename>
 	</files>
 
 	<languages>
